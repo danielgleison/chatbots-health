@@ -1,8 +1,8 @@
-ï»¿ID;Title;Authors;Year of Publication;Database
+ID;Title;Authors;Year of Publication;Database
 1;Rapid Low-Cost Virtual Human Bootstrapping via the Crowd.;Michael Borish and Benjamin Lok.;2016;ACM
-2;"""Hear me out"": smart speaker based conversational agent to monitor symptoms in mental health.";Raju Maharjan, Per BÃ¦kgaard, and Jakob E. Bardram.;2019;ACM
+2;"""Hear me out"": smart speaker based conversational agent to monitor symptoms in mental health.";Raju Maharjan, Per Bækgaard, and Jakob E. Bardram.;2019;ACM
 3;Alexa depression and anxiety self-tests: a preliminary analysis of user experience and trust.;Juan C. Quiroz, Tristan Bongolan, and Kiran Ijaz.;2020;ACM
-4;Transforming Rehabilitation to Virtually Supported Care - The vCare Project.;Johannes Kropf, Niklas Aron HungerlÃ¤nder, Kai Gand, and Hannes Schlieter.;2020;ACM
+4;Transforming Rehabilitation to Virtually Supported Care - The vCare Project.;Johannes Kropf, Niklas Aron Hungerländer, Kai Gand, and Hannes Schlieter.;2020;ACM
 5;Digital Doctors and Robot Receptionists: User Attributes that Predict Acceptance of Automation in Healthcare Facilities.;Andrew Gambino, Jinyoung Kim, and S. Shyam Sundar.;2019;ACM
 6;Advisor: Agent-based Intervention Leveraging Individual Differences to Support Mental Wellbeing of College Students.;Mohan Zalake.;2020;ACM
 7;Pocket Skills: A Conversational Mobile Web App To Support Dialectical Behavioral Therapy.;Jessica Schroeder, Chelsey Wilkes, Kael Rowan, Arturo Toledo, Ann Paradiso, Mary Czerwinski, Gloria Mark, and Marsha M. Linehan.;2018;ACM
@@ -18,7 +18,7 @@
 17;An Intelligent SPN Dialogue Model for Extracting Non-Measurable Pathological Symptoms;"Stavros Mallios;Nikolaos Bourbakis";2016;IEEE
 18;116: Effect of an automated conversational agent on postpartum mental health: A randomized, controlled trial,;Sanaa Suharwardy, Maya Ramachandran, Stephanie A. Leonard, Anita Gunaseelan, Athena Robinson, Alison Darcy, Deirdre J. Lyell, Amy Judy,;2020;Science Direct
 19;A virtual health coach application to provide psychosocial support post-stroke: Feasible or not?,;M. van den Berg, M. Killington, C. Morris, A. Maeder, M. Crotty,;2018;Science Direct
-20;A methodology based on openEHR archetypes and software agents for developing e-health applications reusing legacy systems,;JoÃ£o LuÃ­s Cardoso de Moraes, Wanderley Lopes de Souza, LuÃ­s Ferreira Pires, Antonio Francisco do Prado,;2016;Science Direct
+20;A methodology based on openEHR archetypes and software agents for developing e-health applications reusing legacy systems,;João Luís Cardoso de Moraes, Wanderley Lopes de Souza, Luís Ferreira Pires, Antonio Francisco do Prado,;2016;Science Direct
 21;Advantages of virtual agents over clinical psychologists during comprehensive mental health interviews using a mixed methods design,;Kenji Yokotani, Gen Takagi, Kobun Wakashima,;2018;Science Direct
 22;Getting Ready for Adult Healthcare: Designing a Chatbot to Coach Adolescents with Special Health Needs Through the Transitions of Care,;Jeremy Beaudry, Alyssa Consigli, Colleen Clark, Keith J. Robinson,;2019;Science Direct
 23;Promoting fertility awareness and preconception health using a chatbot: a randomized controlled trial,;Eri Maeda, Akane Miyata, Jacky Boivin, Kyoko Nomura, Yukiyo Kumazawa, Hiromitsu Shirasawa, Hidekazu Saito, Yukihiro Terada,;2020;Science Direct
@@ -26,7 +26,7 @@
 25;Maintaining psycho-social health on the way to mars and back;Wu, P., Morie, J., Wall, P., Chance, E., Haynes, K., Ladwig, J., Bell, B., Ott, T., Miller, C.;2015;SCOPUS
 26;An adaptive computational model for personalized persuasion;Kang, Y., Tan, A.-H., Miao, C.;2015;SCOPUS
 27;SHIHbot: A Facebook chatbot for sexual health information on HIV/AIDS;Brixey, J., Hoegen, R., Lan, W., Rusow, J., Singla, K., Yin, X., Artstein, R., Leuski, A.;2017;SCOPUS
-28;The impact of interpersonal closeness cues in text-based healthcare chatbots on attachment bond and the desire to continue interacting: An experimental design;Kowatsch, T., NiÃŸen, M., RÃ¼egger, D., Stieger, M., FlÃ¼ckiger, C., Allemand, M., Von Wangenheim, F.;2018;SCOPUS
+28;The impact of interpersonal closeness cues in text-based healthcare chatbots on attachment bond and the desire to continue interacting: An experimental design;Kowatsch, T., Nißen, M., Rüegger, D., Stieger, M., Flückiger, C., Allemand, M., Von Wangenheim, F.;2018;SCOPUS
 29;Pocket skills: A conversational Mobile web app to support dialectical behavioral therapy;Schroeder, J., Wilks, C., Rowan, K., Toledo, A., Paradiso, A., Czerwinski, M., Mark, G., Linehan, M.M.;2018;SCOPUS
 30;Virtual agents as a service: Applications in healthcare;Luerssen, M.H., Hawke, T.;2018;SCOPUS
 31;Caring for Vincent: A Chatbot for Self-compassion;Lee, M., Ackermans, S., Van As, N., Chang, H., Lucas, E., IJsselsteijn, W.;2019;SCOPUS
@@ -35,7 +35,7 @@
 34;Modelling therapeutic alliance using a user-aware explainable embodied conversational agent to promote treatment adherence;Abdulrahman, A., Richards, D.;2019;SCOPUS
 35;VICTEAMS: A virtual environment to train medical team leaders to interact with virtual subordinates;Lourdeaux, D., Afoutni, Z., Ferrer, M.-H., Sabouret, N., Demulier, V., Martin, J.-C., Bolot, L., Boccara, V., Romain, L.;2019;SCOPUS
 36;NEMSI: A multimodal dialog system for screening of neurological or mental conditions;Suendermann-Oeft, D., Robinson, A., Cornish, A., Habberstad, D., Pautler, D., Schnelle-Walka, D., Haller, F., Liscombe, J., Neumann, M., Merrill, M., Roesler, O., Geffarth, R.;2019;SCOPUS
-37;Designing a Mobile Social and Vocational Reintegration Assistant for Burn-out Outpatient Treatment;Gebhard, P., Schneeberger, T., Dietz, M., AndrÃ©, E., Bajwa, N.H.;2019;SCOPUS
+37;Designing a Mobile Social and Vocational Reintegration Assistant for Burn-out Outpatient Treatment;Gebhard, P., Schneeberger, T., Dietz, M., André, E., Bajwa, N.H.;2019;SCOPUS
 38;Time to go ONLINE! A modular framework for building internet-based socially interactive agents;Polceanu, M., Lisetti, C.;2019;SCOPUS
 39;Advisor: Agent-based intervention leveraging individual differences to support mental wellbeing of college students;Zalake, M.;2020;SCOPUS
 40;Designing a voice-bot to promote better mental health: Ux design for digital therapeutics on ADHD patients;Park, D.E., Shin, Y.-J., Park, E., Choi, I.A., Song, W.Y., Kim, J.;2020;SCOPUS
@@ -45,9 +45,9 @@
 44;Substance Use Screening using Virtual Agents: Towards Automated Screening, Brief Intervention, and Referral to Treatment (SBIRT);Bickmore, T., Rubin, A., Simon, S.;2020;SCOPUS
 45;Toward Automated Evaluation of Empathetic Responses in Virtual Human Interaction Systems for Mental Health Scenarios;Yao, H., De Siqueira, A.G., Foster, A., Galynker, I., Lok, B.;2020;SCOPUS
 46;Motivating Health Behavior Change with Humorous Virtual Agents;Olafsson, S., O'Leary, T.K., Bickmore, T.W.;2020;SCOPUS
-47;Social Prescribing across the Lifespan with Virtual Humans;YalÃ§ln, Ã–.N., Moreno, S., Dipaola, S.;2020;SCOPUS
+47;Social Prescribing across the Lifespan with Virtual Humans;Yalçln, Ö.N., Moreno, S., Dipaola, S.;2020;SCOPUS
 48;Promotion of continuous use of a self-guided mental healthcare system by a chatbot;Kamita, T., Matsumoto, A., Sun, B., Inoue, T.;2020;SCOPUS
-49;Navigating the combinatorics of virtual agent design space to maximize persuasion;Parmar, D., Ã“lafsson, S., Utami, D., Murali, P., Bickmore, T.;2020;SCOPUS
+49;Navigating the combinatorics of virtual agent design space to maximize persuasion;Parmar, D., Ólafsson, S., Utami, D., Murali, P., Bickmore, T.;2020;SCOPUS
 50;Alexa depression and anxiety self-tests: A preliminary analysis of user experience and trust;Quiroz, J.C., Bongolan, T., Ijaz, K.;2020;SCOPUS
 51;A chatbot for psychiatric counseling in mental healthcare service based on emotional dialogue analysis and sentence generation;Oh, K.-J., Lee, D., Ko, B., Choi, H.-J.;2017;SCOPUS
 52;Development and evaluation of a healthy coping voice interface application using the Google home for elderly patients with type 2 diabetes;Cheng, A., Raghavaraju, V., Kanugo, J., Handrianto, Y.P., Shang, Y.;2018;SCOPUS
